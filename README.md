@@ -1,4 +1,4 @@
-# 💎 Diamond Dynamics
+# 💎 Diamond Price Prediction
 
 ## AI-Powered Diamond Price Prediction & Market Segmentation System
 
